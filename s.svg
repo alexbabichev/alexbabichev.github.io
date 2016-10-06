@@ -1,1 +1,1 @@
-<svg width="100px" height="100px" version="1.1" onload="console.log('load'); setAttribute('fill', 'fuchsia')" xmlns="http://www.w3.org/2000/svg"/>
+<svg width="100px" height="100px" version="1.1" onload="console.log('load');" xmlns="http://www.w3.org/2000/svg"/>
